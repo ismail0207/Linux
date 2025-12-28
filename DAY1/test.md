@@ -167,11 +167,6 @@ Today we learned:
 
 ---
 
-# 🚀 Tomorrow's Topic
-\"Security Groups, NACLs, and AWS Networking Security.\"
-
----
-
 **End of Document**
 
 ---
